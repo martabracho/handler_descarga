@@ -1,0 +1,5 @@
+name: 'handler_descarga'
+type: module
+description: 'Handler para manejar el formulario de descarga de datos en CSV'
+package: Custom
+core_version_requirement: ^10 || ^11
